@@ -2,6 +2,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-SAR4NGA-181717?style=flat&logo=github)](https://github.com/SAR4NGA)
 ![Status](https://img.shields.io/badge/Status-On%20Vacation%20🌴-brightgreen)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-SAR4NGA-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sar4nga/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BA%2FVnz55ISlCeYTJm2l2zqQ%3D%3D)
 
 ---
 
