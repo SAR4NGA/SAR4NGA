@@ -1,7 +1,6 @@
 # Hi there, I'm Pasindu **Saranga** 👋
 
 [![GitHub](https://img.shields.io/badge/GitHub-SAR4NGA-181717?style=flat&logo=github)](https://github.com/SAR4NGA)
-![Status](https://img.shields.io/badge/Status-On%20Vacation%20🌴-brightgreen)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-SAR4NGA-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sar4nga/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BA%2FVnz55ISlCeYTJm2l2zqQ%3D%3D)
 
 ---
@@ -28,43 +27,6 @@ I'm a software engineering student passionate about building practical, real-wor
 
 ---
 
-## 📂 Featured Projects
-
-### 🗄️ [ADBMS Project](https://github.com/SAR4NGA/ADBMS_project)
-A database management systems project built with JavaScript. ⭐ 2 | 🍴 1
-
----
-
-### 💰 [Financial Tracker](https://github.com/SAR4NGA/financialTracker)
-A personal expense and income tracking web app built with **ASP.NET Core Razor Pages**. Tracks, categorizes, and summarizes financial data in a clean interface.
-
-> *Built to solve a real personal need — keeping finances organized.*
-
----
-
-### 📱 [Inflex Mobile](https://github.com/SAR4NGA/inflex_mobile)
-A mobile application built with **Flutter/Dart**.
-
----
-
-### 🚌 [BusApp](https://github.com/SAR4NGA/busapp)
-A Flutter-based bus management app. Built with **Dart** to streamline route and passenger tracking.
-
----
-
-### 🖥️ [Network Monitor](https://github.com/SAR4NGA/Network_Monitor)
-A lightweight, transparent, click-through desktop widget for **Windows** that displays real-time upload and download speeds. Unobtrusive by design — sits on your desktop without getting in the way.
-
-Built with **Python**.
-
----
-
-### 💬 [liteCordChat](https://github.com/SAR4NGA/liteCordChat)
-A high-performance, low-bandwidth voice coordination engine for users with limited data and low-end hardware. Designed for a "zero-friction, zero-trace" experience.
-
-Built with **TypeScript**.
-
----
 
 ## 🏆 GitHub Achievements
 
@@ -85,6 +47,7 @@ Built with **TypeScript**.
 
 [![GitHub](https://img.shields.io/badge/GitHub-@SAR4NGA-181717?style=flat&logo=github)](https://github.com/SAR4NGA)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-SAR4NGA-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sar4nga/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BA%2FVnz55ISlCeYTJm2l2zqQ%3D%3D)
 ---
 
 *"Build things. Break things. Learn from both."*
