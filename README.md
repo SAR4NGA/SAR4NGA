@@ -50,4 +50,4 @@ I'm a software engineering student passionate about building practical, real-wor
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-SAR4NGA-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sar4nga/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BA%2FVnz55ISlCeYTJm2l2zqQ%3D%3D)
 ---
 
-*"Build things. Break things. Learn from both."*
+*"Build things. Break things. Learning from both."*
