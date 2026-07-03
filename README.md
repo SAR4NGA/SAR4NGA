@@ -1,13 +1,13 @@
 # Hi there, I'm Pasindu **Saranga** 👋
 
 [![GitHub](https://img.shields.io/badge/GitHub-SAR4NGA-181717?style=flat&logo=github)](https://github.com/SAR4NGA)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-SAR4NGA-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sar4nga/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BA%2FVnz55ISlCeYTJm2l2zqQ%3D%3D)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-SAR4NGA-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sar4nga/)
 
 ---
 
 ## 🧑‍💻 About Me
 
-I'm a software engineering student passionate about building practical, real-world applications — from desktop utilities to full-stack web apps and mobile solutions. I enjoy solving problems across the stack and exploring new technologies.
+I'm a software engineering student passionate about building practical, real-world applications — from desktop utilities to full-stack web apps and mobile solutions. I enjoy solving problems across the full stack.
 
 ---
 
@@ -37,9 +37,9 @@ I'm a software engineering student passionate about building practical, real-wor
 
 ## 📊 GitHub Stats
 
-![SAR4NGA's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SAR4NGA&show_icons=true&theme=dark&hide_border=true)
+[![SAR4NGA's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SAR4NGA&show_icons=true&theme=dark&hide_border=true)](https://github.com/SAR4NGA)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SAR4NGA&layout=compact&theme=dark&hide_border=true)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SAR4NGA&layout=compact&theme=dark&hide_border=true)](https://github.com/SAR4NGA)
 
 ---
 
@@ -47,7 +47,8 @@ I'm a software engineering student passionate about building practical, real-wor
 
 [![GitHub](https://img.shields.io/badge/GitHub-@SAR4NGA-181717?style=flat&logo=github)](https://github.com/SAR4NGA)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-SAR4NGA-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sar4nga/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BA%2FVnz55ISlCeYTJm2l2zqQ%3D%3D)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-SAR4NGA-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sar4nga/)
+
 ---
 
 *"Build things. Break things. Learning from both."*
