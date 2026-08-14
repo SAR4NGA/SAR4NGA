@@ -36,30 +36,6 @@ I'm a software engineering undergraduate who builds practical, real-world applic
 
 <br>
 
-## Featured Projects
-
-| Project | Stack | What it does |
-|---|---|---|
-| **[Vaultix](https://github.com/SAR4NGA)** | React, Node.js, MS SQL Server | Expense tracker with stored procedures, triggers, and CTE-based anomaly detection |
-| **[GO4](https://github.com/SAR4NGA)** | Flutter, Node.js | Multimodal AI retail navigation app |
-| **[Smart Plate](https://github.com/SAR4NGA)** | MERN, Socket.IO | Restaurant management system with five user roles |
-| **[LiteCord Chat](https://github.com/SAR4NGA)** | React, WebRTC | Real-time voice chat built on the Web Audio API |
-| **[BusApp](https://github.com/SAR4NGA)** | Flutter | Offline-first bus route attendance and payment tracker |
-
-> Swap the placeholder links above for the actual repo URLs.
-
-<br>
-
-## GitHub Achievements
-
-<div align="center">
-
-![YOLO](https://img.shields.io/badge/Achievement-YOLO-orange?style=flat-square)
-![Pull Shark](https://img.shields.io/badge/Achievement-Pull%20Shark-blue?style=flat-square)
-
-</div>
-
-<br>
 
 ## Connect
 
