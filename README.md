@@ -1,54 +1,80 @@
-# Hi there, I'm Pasindu **Saranga** 👋
+<div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-SAR4NGA-181717?style=flat&logo=github)](https://github.com/SAR4NGA)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-SAR4NGA-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sar4nga/)
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Pasindu+Saranga+%F0%9F%91%8B;Software+Engineering+Undergraduate;Full-Stack+%26+Mobile+Developer;Building+things%2C+one+commit+at+a+time." alt="Typing SVG" />
 
----
+[![Portfolio](https://img.shields.io/badge/Portfolio-pasindusaranga.me-2E9EF7?style=flat-square&logo=vercel&logoColor=white)](https://pasindusaranga.me)
+[![GitHub](https://img.shields.io/badge/GitHub-SAR4NGA-181717?style=flat-square&logo=github)](https://github.com/SAR4NGA)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-SAR4NGA-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sar4nga/)
 
-## 🧑‍💻 About Me
+</div>
 
-I'm a software engineering student passionate about building practical, real-world applications — from desktop utilities to full-stack web apps and mobile solutions. I enjoy solving problems across the full stack.
+<br>
 
----
+## About Me
 
-## 🛠️ Tech Stack
+I'm a software engineering undergraduate who builds practical, real-world applications across the stack, from desktop utilities to full-stack web apps and mobile solutions. I like taking a project from database design through to a polished UI, and I'm currently exploring IoT and DIY electronics on the side.
+
+<br>
+
+## Tech Stack
+
+<div align="center">
 
 **Languages**
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+
+<img src="https://skillicons.dev/icons?i=js,ts,cs,dart,py" />
 
 **Frameworks & Platforms**
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/-ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 
----
+<img src="https://skillicons.dev/icons?i=flutter,dotnet,nodejs,react,express,mongodb,mysql" />
 
+**Tools**
 
-## 🏆 GitHub Achievements
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,androidstudio" />
 
-![YOLO](https://img.shields.io/badge/Achievement-YOLO-orange?style=flat)
-![Pull Shark](https://img.shields.io/badge/Achievement-Pull%20Shark-blue?style=flat)
+</div>
 
----
+<br>
 
-## 📊 GitHub Stats
+## Featured Projects
 
-[![SAR4NGA's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SAR4NGA&show_icons=true&theme=dark&hide_border=true)](https://github.com/SAR4NGA)
+| Project | Stack | What it does |
+|---|---|---|
+| **[Vaultix](https://github.com/SAR4NGA)** | React, Node.js, MS SQL Server | Expense tracker with stored procedures, triggers, and CTE-based anomaly detection |
+| **[GO4](https://github.com/SAR4NGA)** | Flutter, Node.js | Multimodal AI retail navigation app |
+| **[Smart Plate](https://github.com/SAR4NGA)** | MERN, Socket.IO | Restaurant management system with five user roles |
+| **[LiteCord Chat](https://github.com/SAR4NGA)** | React, WebRTC | Real-time voice chat built on the Web Audio API |
+| **[BusApp](https://github.com/SAR4NGA)** | Flutter | Offline-first bus route attendance and payment tracker |
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SAR4NGA&layout=compact&theme=dark&hide_border=true)](https://github.com/SAR4NGA)
+> Swap the placeholder links above for the actual repo URLs.
 
----
+<br>
 
-## 📫 Connect
+## GitHub Achievements
 
-[![GitHub](https://img.shields.io/badge/GitHub-@SAR4NGA-181717?style=flat&logo=github)](https://github.com/SAR4NGA)
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-SAR4NGA-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sar4nga/)
+![YOLO](https://img.shields.io/badge/Achievement-YOLO-orange?style=flat-square)
+![Pull Shark](https://img.shields.io/badge/Achievement-Pull%20Shark-blue?style=flat-square)
 
----
+</div>
 
-*"Build things. Break things. Learning from both."*
+<br>
+
+## Connect
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-pasindusaranga.me-2E9EF7?style=flat-square&logo=vercel&logoColor=white)](https://pasindusaranga.me)
+[![GitHub](https://img.shields.io/badge/GitHub-@SAR4NGA-181717?style=flat-square&logo=github)](https://github.com/SAR4NGA)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-SAR4NGA-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sar4nga/)
+
+</div>
+
+<br>
+
+<div align="center">
+
+*Build things. Break things. Learn from both.*
+
+</div>
