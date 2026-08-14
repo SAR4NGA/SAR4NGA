@@ -1,0 +1,44 @@
+<svg width="800" height="220" viewBox="0 0 800 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a1830"/>
+      <stop offset="100%" stop-color="#04070d"/>
+    </linearGradient>
+    <linearGradient id="waveGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#153054"/>
+      <stop offset="50%" stop-color="#2E9EF7"/>
+      <stop offset="100%" stop-color="#153054"/>
+      <animate attributeName="x1" values="0%;100%;0%" dur="8s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="100%;200%;100%" dur="8s" repeatCount="indefinite"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="800" height="220" fill="url(#bgGrad)"/>
+
+  <path d="M0,180 C150,140 300,210 450,170 C600,130 700,190 800,150 L800,220 L0,220 Z" fill="url(#waveGrad)" opacity="0.85"/>
+
+  <text x="400" y="70" text-anchor="middle" font-family="'Courier New', monospace" font-size="30" fill="#2E9EF7" opacity="0">
+    Hi there, I'm
+    <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.05;0.25;1" dur="6s" begin="0s" fill="freeze"/>
+  </text>
+
+  <text x="400" y="118" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-weight="bold" font-size="36" fill="#eaf4ff" opacity="0">
+    Pasindu Saranga 👋
+    <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.2;0.4;1" dur="6s" begin="0s" fill="freeze"/>
+  </text>
+
+  <g font-family="'Courier New', monospace" font-size="18" fill="#9fd0ff" text-anchor="middle">
+    <text x="400" y="155" opacity="0">
+      Software Engineering Undergraduate
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.017;0.05;0.317;0.333;1" dur="9s" begin="1s" repeatCount="indefinite"/>
+    </text>
+    <text x="400" y="155" opacity="0">
+      Full-Stack &amp; Mobile Developer
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.333;0.36;0.65;0.667;1" dur="9s" begin="1s" repeatCount="indefinite"/>
+    </text>
+    <text x="400" y="155" opacity="0">
+      Building things, one commit at a time.
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.667;0.70;0.983;1" dur="9s" begin="1s" repeatCount="indefinite"/>
+    </text>
+  </g>
+</svg>
