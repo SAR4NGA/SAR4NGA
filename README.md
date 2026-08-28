@@ -1,9 +1,11 @@
-<div align="center">
+<div align="left">
 
 <img src="https://raw.githubusercontent.com/SAR4NGA/SAR4NGA/main/assets/header.svg" alt="Header" width="800" />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-pasindusaranga.me-2E9EF7?style=flat-square&logo=vercel&logoColor=white)](https://pasindusaranga.me)
+<br>
 [![GitHub](https://img.shields.io/badge/GitHub-SAR4NGA-181717?style=flat-square&logo=github)](https://github.com/SAR4NGA)
+<br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-SAR4NGA-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sar4nga/)
 
 </div>
@@ -18,7 +20,7 @@ I'm a software engineering undergraduate who builds practical, real-world applic
 
 ## Tech Stack
 
-<div align="center">
+<div align="left">
 
 **Languages**
 
@@ -39,7 +41,7 @@ I'm a software engineering undergraduate who builds practical, real-world applic
 
 ## Connect
 
-<div align="center">
+<div align="left">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-pasindusaranga.me-2E9EF7?style=flat-square&logo=vercel&logoColor=white)](https://pasindusaranga.me)
 [![GitHub](https://img.shields.io/badge/GitHub-@SAR4NGA-181717?style=flat-square&logo=github)](https://github.com/SAR4NGA)
@@ -49,7 +51,7 @@ I'm a software engineering undergraduate who builds practical, real-world applic
 
 <br>
 
-<div align="center">
+<div align="left">
 
 *Build things. Break things. Learn from both.*
 
