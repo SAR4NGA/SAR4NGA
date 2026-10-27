@@ -1,0 +1,93 @@
+<svg width="800" height="240" viewBox="0 0 800 240" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a1830" />
+      <stop offset="100%" stop-color="#04070d" />
+    </linearGradient>
+
+    <linearGradient id="waveBack" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#153054" stop-opacity="0.85" />
+      <stop offset="50%" stop-color="#2E9EF7" stop-opacity="0.55" />
+      <stop offset="100%" stop-color="#153054" stop-opacity="0.85" />
+    </linearGradient>
+
+    <linearGradient id="waveFront" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#153054" stop-opacity="0.95" />
+      <stop offset="50%" stop-color="#60baff" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#153054" stop-opacity="0.95" />
+    </linearGradient>
+
+    <style>
+      .greeting {
+        font-family: 'Courier New', Courier, monospace;
+        font-size: 28px;
+        fill: #2E9EF7;
+        animation: fadeGreeting 6s ease-out forwards;
+      }
+      .name {
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-weight: bold;
+        font-size: 38px;
+        fill: #eaf4ff;
+        animation: fadeName 6s ease-out forwards;
+      }
+      .sub {
+        font-family: 'Courier New', Courier, monospace;
+        font-size: 18px;
+        fill: #9fd0ff;
+        opacity: 0;
+      }
+      .sub1 { animation: cycle1 9s infinite; }
+      .sub2 { animation: cycle2 9s infinite; }
+      .sub3 { animation: cycle3 9s infinite; }
+
+      @keyframes fadeGreeting {
+        0%, 5% { opacity: 0; }
+        25%, 100% { opacity: 1; }
+      }
+      @keyframes fadeName {
+        0%, 20% { opacity: 0; }
+        40%, 100% { opacity: 1; }
+      }
+      @keyframes cycle1 {
+        0%, 12% { opacity: 0; }
+        16%, 38% { opacity: 1; }
+        42%, 100% { opacity: 0; }
+      }
+      @keyframes cycle2 {
+        0%, 42% { opacity: 0; }
+        46%, 68% { opacity: 1; }
+        72%, 100% { opacity: 0; }
+      }
+      @keyframes cycle3 {
+        0%, 72% { opacity: 0; }
+        76%, 96% { opacity: 1; }
+        100% { opacity: 0; }
+      }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="800" height="240" rx="10" fill="url(#bgGrad)" />
+
+  <!-- Top Back Wave (Single-line values for strict SVG compatibility) -->
+  <path d="M0,0 L800,0 L800,55 C650,75 550,25 400,60 C250,95 150,35 0,65 Z" fill="url(#waveBack)">
+    <animate attributeName="d" dur="9s" repeatCount="indefinite" values="M0,0 L800,0 L800,55 C650,75 550,25 400,60 C250,95 150,35 0,65 Z; M0,0 L800,0 L800,70 C650,30 550,80 400,45 C250,10 150,75 0,45 Z; M0,0 L800,0 L800,55 C650,75 550,25 400,60 C250,95 150,35 0,65 Z" />
+  </path>
+
+  <!-- Top Front Wave (Single-line values for strict SVG compatibility) -->
+  <path d="M0,0 L800,0 L800,45 C680,30 520,80 380,45 C220,10 120,65 0,40 Z" fill="url(#waveFront)">
+    <animate attributeName="d" dur="6s" repeatCount="indefinite" values="M0,0 L800,0 L800,45 C680,30 520,80 380,45 C220,10 120,65 0,40 Z; M0,0 L800,0 L800,35 C680,70 520,20 380,55 C220,85 120,25 0,55 Z; M0,0 L800,0 L800,45 C680,30 520,80 380,45 C220,10 120,65 0,40 Z" />
+  </path>
+
+  <!-- Greeting -->
+  <text x="400" y="115" text-anchor="middle" class="greeting">Hi there, I'm</text>
+
+  <!-- Name -->
+  <text x="400" y="162" text-anchor="middle" class="name">Pasindu Saranga 👋</text>
+
+  <!-- Cycling Subtitles -->
+  <text x="400" y="202" text-anchor="middle" class="sub sub1">Software Engineering Undergraduate</text>
+  <text x="400" y="202" text-anchor="middle" class="sub sub2">Full-Stack & Mobile Developer</text>
+  <text x="400" y="202" text-anchor="middle" class="sub sub3">Building things, one commit at a time.</text>
+</svg>
