@@ -1,6 +1,6 @@
 <div align="left">
 
-<img src="https://raw.githubusercontent.com/SAR4NGA/SAR4NGA/main/assets/header.svg" alt="Header" width="800" />
+<img src="https://raw.githubusercontent.com/SAR4NGA/SAR4NGA/main/assets/top.svg" alt="Header" width="800" />
 
 
 
@@ -47,6 +47,6 @@ I'm a software engineering undergraduate who builds practical, real-world applic
 
 <div align="left">
 
-*Build things. Break things. Learn from both.*
+<img src="https://raw.githubusercontent.com/SAR4NGA/SAR4NGA/main/assets/bottom.svg" alt="Header" width="800" />
 
 </div>
