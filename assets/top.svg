@@ -101,6 +101,5 @@
 
   <!-- Cycling Subtitles (XML-Safe) -->
   <text x="400" y="202" text-anchor="middle" class="sub sub1">Software Engineering Undergraduate</text>
-  <text x="400" y="202" text-anchor="middle" class="sub sub2">Full-Stack & Mobile Developer</text>
   <text x="400" y="202" text-anchor="middle" class="sub sub3">Building things, one commit at a time.</text>
 </svg>
