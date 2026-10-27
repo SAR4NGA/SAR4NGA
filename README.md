@@ -2,9 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/SAR4NGA/SAR4NGA/main/assets/top.svg" alt="Header" width="800" />
 
-
-
-<br>
+<br><br>
 
 ## About Me
 
@@ -13,8 +11,6 @@ I'm a software engineering undergraduate who builds practical, real-world applic
 <br>
 
 ## Tech Stack
-
-<div align="left">
 
 **Languages**
 
@@ -28,25 +24,16 @@ I'm a software engineering undergraduate who builds practical, real-world applic
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,androidstudio" />
 
-</div>
-
-<br>
-
+<br><br>
 
 ## Connect
-
-<div align="left">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-pasindusaranga.me-2E9EF7?style=flat-square&logo=vercel&logoColor=white)](https://pasindusaranga.me)<br>
 [![GitHub](https://img.shields.io/badge/GitHub-@SAR4NGA-181717?style=flat-square&logo=github)](https://github.com/SAR4NGA)<br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-SAR4NGA-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sar4nga/)
 
-</div>
-
 <br>
 
-<div align="left">
-
-<img src="https://raw.githubusercontent.com/SAR4NGA/SAR4NGA/main/assets/bottom.svg" alt="Header" width="800" />
+<img src="https://raw.githubusercontent.com/SAR4NGA/SAR4NGA/main/assets/bottom.svg" alt="Footer" width="800" />
 
 </div>
