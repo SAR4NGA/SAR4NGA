@@ -1,37 +1,25 @@
-<svg width="800" height="110" viewBox="0 0 800 110" xmlns="http://www.w3.org/2000/svg">
+<svg width="800" height="120" viewBox="0 0 800 120" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="bgGradFoot" x1="0%" y1="0%" x2="100%" y2="100%">
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#04070d" />
       <stop offset="100%" stop-color="#0a1830" />
     </linearGradient>
-
-    <linearGradient id="waveBackFoot" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#153054" stop-opacity="0.85" />
-      <stop offset="50%" stop-color="#2E9EF7" stop-opacity="0.55" />
-      <stop offset="100%" stop-color="#153054" stop-opacity="0.85" />
-    </linearGradient>
-
-    <linearGradient id="waveFrontFoot" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#153054" stop-opacity="0.95" />
-      <stop offset="50%" stop-color="#60baff" stop-opacity="0.8" />
-      <stop offset="100%" stop-color="#153054" stop-opacity="0.95" />
+    <linearGradient id="waveGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#153054" />
+      <stop offset="50%" stop-color="#2E9EF7" />
+      <stop offset="100%" stop-color="#153054" />
+      <animate attributeName="x1" values="0%;100%;0%" dur="8s" repeatCount="indefinite" />
+      <animate attributeName="x2" values="100%;200%;100%" dur="8s" repeatCount="indefinite" />
     </linearGradient>
   </defs>
 
-  <!-- Background -->
-  <rect width="800" height="110" rx="10" fill="url(#bgGradFoot)" />
+  <rect width="800" height="120" fill="url(#bgGrad)" />
 
-  <!-- Bottom Waves -->
-  <path d="M0,110 L800,110 L800,60 C650,40 550,90 400,55 C250,20 150,80 0,50 Z" fill="url(#waveBackFoot)">
-    <animate attributeName="d" dur="9s" repeatCount="indefinite" values="M0,110 L800,110 L800,60 C650,40 550,90 400,55 C250,20 150,80 0,50 Z; M0,110 L800,110 L800,45 C650,85 550,35 400,70 C250,95 150,40 0,70 Z; M0,110 L800,110 L800,60 C650,40 550,90 400,55 C250,20 150,80 0,50 Z" />
-  </path>
-
-  <path d="M0,110 L800,110 L800,70 C680,85 520,35 380,70 C220,100 120,50 0,75 Z" fill="url(#waveFrontFoot)">
-    <animate attributeName="d" dur="6s" repeatCount="indefinite" values="M0,110 L800,110 L800,70 C680,85 520,35 380,70 C220,100 120,50 0,75 Z; M0,110 L800,110 L800,80 C680,45 520,95 380,60 C220,30 120,90 0,60 Z; M0,110 L800,110 L800,70 C680,85 520,35 380,70 C220,100 120,50 0,75 Z" />
-  </path>
-
-  <!-- Closing Text -->
-  <text x="400" y="38" text-anchor="middle" font-family="&#39;Courier New&#39;, Courier, monospace" font-size="15" fill="#9fd0ff">
-    Building things, one commit at a time.
+  <text x="400" y="42" text-anchor="middle" font-family="Georgia, &#39;Times New Roman&#39;, serif" font-style="italic" font-size="18" fill="#eaf4ff">
+    Build things. Break things. Learn from both.
   </text>
+
+  <path d="M0,85 C150,45 300,110 450,75 C600,40 700,95 800,60 L800,120 L0,120 Z" fill="url(#waveGrad)" opacity="0.85">
+    <animate attributeName="d" dur="8s" repeatCount="indefinite" values="M0,85 C150,45 300,110 450,75 C600,40 700,95 800,60 L800,120 L0,120 Z; M0,65 C150,100 300,45 450,85 C600,110 700,55 800,80 L800,120 L0,120 Z; M0,85 C150,45 300,110 450,75 C600,40 700,95 800,60 L800,120 L0,120 Z" />
+  </path>
 </svg>
