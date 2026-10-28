@@ -1,6 +1,5 @@
 <div align="left">
 
-<img src="https://raw.githubusercontent.com/SAR4NGA/SAR4NGA/main/assets/top.svg" alt="Header" width="800" />
 
 
 
