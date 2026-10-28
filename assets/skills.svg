@@ -95,10 +95,7 @@
         <rect width="52" height="52" rx="12" fill="#11352B" class="glow-box p6" />
         <path d="M26,10 C26,10 35,18 34,29 C33,37 26,41 26,41 C26,41 19,37 18,29 C17,18 26,10 26,10 Z" fill="#4DB33D" />
       </g>
-      <g transform="translate(384, 0)">
-        <rect width="52" height="52" rx="12" fill="#161b22" class="glow-box p7" />
-        <path d="M15,35 C14,26 19,17 28,15 C32,14 35,18 37,22 C33,21 30,22 29,25 C33,26 36,29 38,34 C34,33 31,31 28,31 C26,34 25,37 26,40 C22,38 18,36 15,35 Z" fill="none" stroke="#60baff" stroke-width="1.8" stroke-linejoin="round" />
-      </g>
+      
     </g>
 
     <!-- ROW 3: git, github, vscode, androidstudio -->
