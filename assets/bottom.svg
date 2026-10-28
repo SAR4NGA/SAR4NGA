@@ -1,38 +1,27 @@
-<svg width="800" height="110" viewBox="0 0 800 110" xmlns="http://www.w3.org/2000/svg">
+<svg width="800" height="80" viewBox="0 0 800 80" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="bgGradFoot" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#04070d" />
-      <stop offset="100%" stop-color="#0a1830" />
+    <linearGradient id="ribbonFoot1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#2E9EF7" stop-opacity="0" />
+      <stop offset="50%" stop-color="#2E9EF7" stop-opacity="0.7" />
+      <stop offset="100%" stop-color="#2E9EF7" stop-opacity="0" />
     </linearGradient>
 
-    <linearGradient id="waveBackFoot" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#153054" stop-opacity="0.85" />
-      <stop offset="50%" stop-color="#2E9EF7" stop-opacity="0.55" />
-      <stop offset="100%" stop-color="#153054" stop-opacity="0.85" />
-    </linearGradient>
-
-    <linearGradient id="waveFrontFoot" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#153054" stop-opacity="0.95" />
-      <stop offset="50%" stop-color="#60baff" stop-opacity="0.8" />
-      <stop offset="100%" stop-color="#153054" stop-opacity="0.95" />
+    <linearGradient id="ribbonFoot2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#60baff" stop-opacity="0" />
+      <stop offset="50%" stop-color="#60baff" stop-opacity="0.45" />
+      <stop offset="100%" stop-color="#60baff" stop-opacity="0" />
     </linearGradient>
   </defs>
 
-  <!-- Background -->
-  <rect width="800" height="110" rx="10" fill="url(#bgGradFoot)" />
-
-  <!-- Flow 1: Bottom Back Wave -->
-  <path d="M0,110 L800,110 L800,60 C650,40 550,90 400,55 C250,20 150,80 0,50 Z" fill="url(#waveBackFoot)">
-    <animate attributeName="d" dur="9s" repeatCount="indefinite" values="M0,110 L800,110 L800,60 C650,40 550,90 400,55 C250,20 150,80 0,50 Z; M0,110 L800,110 L800,45 C650,85 550,35 400,70 C250,95 150,40 0,70 Z; M0,110 L800,110 L800,60 C650,40 550,90 400,55 C250,20 150,80 0,50 Z" />
-  </path>
-
-  <!-- Flow 2: Bottom Front Wave -->
-  <path d="M0,110 L800,110 L800,70 C680,85 520,35 380,70 C220,100 120,50 0,75 Z" fill="url(#waveFrontFoot)">
-    <animate attributeName="d" dur="6s" repeatCount="indefinite" values="M0,110 L800,110 L800,70 C680,85 520,35 380,70 C220,100 120,50 0,75 Z; M0,110 L800,110 L800,80 C680,45 520,95 380,60 C220,30 120,90 0,60 Z; M0,110 L800,110 L800,70 C680,85 520,35 380,70 C220,100 120,50 0,75 Z" />
-  </path>
-
-  <!-- Closing Text in Claude's Editorial Serif -->
-  <text x="400" y="38" text-anchor="middle" font-family="&#39;Copernicus&#39;, &#39;Tiempos Text&#39;, &#39;Iowan Old Style&#39;, &#39;Charter&#39;, &#39;Palatino Linotype&#39;, Georgia, serif" font-style="italic" font-size="17" fill="#f4f4f0">
+  <text x="400" y="28" text-anchor="middle" font-family="&#39;Copernicus&#39;, &#39;Tiempos Text&#39;, &#39;Iowan Old Style&#39;, &#39;Charter&#39;, &#39;Palatino Linotype&#39;, Georgia, serif" font-style="italic" font-size="17" fill="#58a6ff">
     Build things. Break things. Learn from both.
   </text>
+
+  <path d="M0,55 C200,75 350,35 550,58 C680,72 750,45 800,55" stroke="url(#ribbonFoot1)" stroke-width="2.5" fill="none">
+    <animate attributeName="d" dur="7s" repeatCount="indefinite" values="M0,55 C200,75 350,35 550,58 C680,72 750,45 800,55; M0,55 C200,35 350,75 550,48 C680,35 750,70 800,55; M0,55 C200,75 350,35 550,58 C680,72 750,45 800,55" />
+  </path>
+
+  <path d="M0,62 C180,38 380,78 580,50 C700,38 760,68 800,58" stroke="url(#ribbonFoot2)" stroke-width="1.5" fill="none">
+    <animate attributeName="d" dur="5s" repeatCount="indefinite" values="M0,62 C180,38 380,78 580,50 C700,38 760,68 800,58; M0,62 C180,75 380,40 580,68 C700,75 760,42 800,58; M0,62 C180,38 380,78 580,50 C700,38 760,68 800,58" />
+  </path>
 </svg>
